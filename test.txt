@@ -16,4 +16,7 @@ qwer
 1111111111111
 >>>>>>> test01
 02的更新
+<<<<<<< HEAD
 wwwwwwwwwwwwwwwww
+qqqqqqqqqqqqqqq
+>>>>>>> ff5cc5dbcd4b6517f2a806cb8c44d846453891a6
