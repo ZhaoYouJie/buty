@@ -1,4 +1,9 @@
 aaa
 bbb
 aaaaaaaa
+<<<<<<< HEAD
 cccccccc
+=======
+ssssssss
+ssssssss
+>>>>>>> test01
